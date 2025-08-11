@@ -1,0 +1,5 @@
+# Minimal addons deployment pointers (Grafana/Kiali/Prometheus/Jaeger)
+# For demo purposes, apply Istio's addons from the istio repo:
+# kubectl apply -f https://raw.githubusercontent.com/istio/istio/release-1.19/samples/addons
+#
+# This placeholder allows terraform to reference a local file; it instructs users to apply upstream addons.

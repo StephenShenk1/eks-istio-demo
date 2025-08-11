@@ -1,0 +1,9 @@
+# Bookinfo sample (lightweight). For the full original manifest use:
+# https://raw.githubusercontent.com/istio/istio/release-1.19/samples/bookinfo/platform/kube/bookinfo.yaml
+#
+# This file points users to the upstream canonical manifest for completeness.
+#
+# You can apply the original directly or use istioctl sample:
+# kubectl apply -f https://raw.githubusercontent.com/istio/istio/release-1.19/samples/bookinfo/platform/kube/bookinfo.yaml
+
+# Placeholder file - use upstream Bookinfo manifest.
